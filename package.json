@@ -1,0 +1,16 @@
+{
+  "name": "Learning_to_use_jest",
+  "version": "1.0.0",
+  "main": "sum.js",
+  "scripts": {
+    "start": "node sum.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^28.1.1"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "author": "HarukaYamamoto0 - github"
+}
