@@ -1,2 +1,3 @@
-# Learning_to_use_jest
-following the tutorial from jest official [website](https://jestjs.io/pt-BR/docs/getting-started)
+# Jest
+
+This repository is just a sketch of how I use jest.
